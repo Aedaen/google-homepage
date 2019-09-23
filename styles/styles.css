@@ -1,0 +1,98 @@
+
+ul{
+  margin: 20px 0 0 0;
+  padding: 0px;}
+li{
+  display: inline; 
+}
+
+#about {
+  padding-left: 15px;
+}
+
+#store{
+  padding-left: 15px;
+}
+
+#sign_in{
+  float: right;  
+}
+
+#gmail{
+  padding-right: 15px;
+  float: right;
+}
+
+#apps{
+  padding-right: 15px;
+  float: right;
+}
+#sign_in{
+  background-color: rgb(66, 133, 244);
+  color: white;
+  border-radius: 2px;
+  padding: 5px 10px;
+  border-color: rgb(66, 133, 244);
+  position: relative;
+  bottom: 5px;
+  border: 1px rgb(66, 133, 244) solid;
+}
+
+#bottom_nav {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+ 
+  padding-bottom: 20px;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.bot_left{
+
+  margin-left: 15px;
+  
+}
+
+
+#settings{
+  float: right;
+  margin-right: 50px;
+  
+}
+
+#privacy{
+  float: right;
+  margin-right: 25px;
+}
+
+#terms{
+  float: right;
+  margin-right: 25px;
+}
+
+.center{
+  display: block;
+	margin-left: auto;
+  margin-right: auto;
+  margin-top: 220px;
+}
+
+#search_box{
+  width: 40%;
+  border-radius: 80px;
+  margin-top: 1%;
+  box-sizing: border-box;
+  padding: 5px;
+  border-color: rgb(223, 225, 229);
+
+  
+
+} 
+
+.button{
+  margin-top: 30px;
+  margin-left: 20px;
+  padding-left: 20px;
+  padding: 10px;
+}
